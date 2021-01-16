@@ -1,0 +1,85 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+#header-title {
+  margin: 20px;
+}
+.header-logo {
+  border-top: solid 2px gray;
+  border-bottom: solid 2px gray;
+}
+.header-logo ul {
+  display: flex;
+  justify-content: center;
+}
+.header-logo li {
+  padding: 15px 20px;
+  list-style: none;
+}
+.header-list {
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.header-1,
+.header-2,
+.header-3,
+.header-4,
+.header-5,
+.header-6,
+.header-7,
+.header-8,
+.header-9,
+.header-10,
+.header-11,
+.header-12 {
+  width: 200px;
+  height: 200px;
+}
+.header-1 {
+  background-color: #e6ffe9;
+}
+.header-2 {
+  background-color: #cbffd3;
+}
+.header-3 {
+  background-color: #aeffbd;
+}
+.header-4 {
+  background-color: #93ffab;
+}
+.header-5 {
+  background-color: #f3ffd8;
+}
+.header-6 {
+  background-color: #edffbe;
+}
+.header-7 {
+  background-color: #e9ffa5;
+}
+.header-8 {
+  background-color: #e4ff8d;
+}
+.header-9 {
+  background-color: #d9e5ff;
+}
+.header-10 {
+  background-color: #bad3ff;
+}
+.header-11 {
+  background-color: #a4c6ff;
+}
+.header-12 {
+  background-color: #8eb8ff;
+}
+footer {
+  color: white;
+  height: 120px;
+  background-color: #c0c0c0;
+  line-height: 120px;
+}
